@@ -19,3 +19,5 @@ Also this script reads your alphabet from a file named `alphabet.pkl` in the roo
 
 finally run:
 `python3 train.py`
+
+MyGithub
